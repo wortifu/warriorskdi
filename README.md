@@ -33,6 +33,6 @@ Baca dengan seksama :)
 - Pilih fungsi setWebHook & jalankan ![image](https://github.com/wortifu/warriorskdi/assets/66587179/06268612-f52d-4870-9798-288842a05aaf)
 - jika sudah muncul LOG webhook was set silahkan coba bot nya dengan command /start
 
-Saya newbi dalam membuat repository jika ada tutorial yg membingungkan bisa japri :V
+Saya newbie dalam membuat repository jika ada tutorial yg membingungkan bisa japri / drop the bloody issues :V
 Terimakasih
 
